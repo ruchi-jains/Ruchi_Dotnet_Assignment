@@ -1,0 +1,14 @@
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\bin\Debug\net8.0\ruchi_assignment1.exe
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\bin\Debug\net8.0\ruchi_assignment1.deps.json
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\bin\Debug\net8.0\ruchi_assignment1.runtimeconfig.json
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\bin\Debug\net8.0\ruchi_assignment1.dll
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\bin\Debug\net8.0\ruchi_assignment1.pdb
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\ruchi_assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\ruchi_assignment1.AssemblyInfoInputs.cache
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\ruchi_assignment1.AssemblyInfo.cs
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\ruchi_assignment1.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\ruchi_assignment1.dll
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\refint\ruchi_assignment1.dll
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\ruchi_assignment1.pdb
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\ruchi_assignment1.genruntimeconfig.cache
+C:\Users\ruchi\source\repos\ruchi_assignment1\ruchi_assignment1\obj\Debug\net8.0\ref\ruchi_assignment1.dll
