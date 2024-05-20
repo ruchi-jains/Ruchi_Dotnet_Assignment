@@ -1,0 +1,7 @@
+C:\Users\ruchi\source\repos\ruchi_assignment1_updated\ruchi_assignment1_updated\bin\Debug\ruchi_assignment1_updated.exe.config
+C:\Users\ruchi\source\repos\ruchi_assignment1_updated\ruchi_assignment1_updated\bin\Debug\ruchi_assignment1_updated.exe
+C:\Users\ruchi\source\repos\ruchi_assignment1_updated\ruchi_assignment1_updated\bin\Debug\ruchi_assignment1_updated.pdb
+C:\Users\ruchi\source\repos\ruchi_assignment1_updated\ruchi_assignment1_updated\obj\Debug\ruchi_assignment1_updated.csproj.AssemblyReference.cache
+C:\Users\ruchi\source\repos\ruchi_assignment1_updated\ruchi_assignment1_updated\obj\Debug\ruchi_assignment1_updated.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\ruchi_assignment1_updated\ruchi_assignment1_updated\obj\Debug\ruchi_assignment1_updated.exe
+C:\Users\ruchi\source\repos\ruchi_assignment1_updated\ruchi_assignment1_updated\obj\Debug\ruchi_assignment1_updated.pdb
