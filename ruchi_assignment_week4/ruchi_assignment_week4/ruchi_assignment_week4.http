@@ -1,0 +1,6 @@
+@ruchi_assignment_week4_HostAddress = http://localhost:5193
+
+GET {{ruchi_assignment_week4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

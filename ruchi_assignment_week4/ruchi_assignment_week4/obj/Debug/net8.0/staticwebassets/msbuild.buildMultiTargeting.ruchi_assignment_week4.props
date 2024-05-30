@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ruchi_assignment_week4.props" />
+</Project>
