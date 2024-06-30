@@ -1,0 +1,6 @@
+@Ruchi_Employee_system_HostAddress = http://localhost:5095
+
+GET {{Ruchi_Employee_system_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

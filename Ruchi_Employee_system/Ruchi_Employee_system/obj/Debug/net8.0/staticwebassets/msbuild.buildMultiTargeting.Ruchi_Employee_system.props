@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ruchi_Employee_system.props" />
+</Project>
